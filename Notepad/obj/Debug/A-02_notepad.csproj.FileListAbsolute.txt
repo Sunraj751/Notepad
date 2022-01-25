@@ -1,0 +1,17 @@
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\bin\Debug\A-02_notepad.exe.config
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\bin\Debug\A-02_notepad.exe
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\bin\Debug\A-02_notepad.pdb
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad.csproj.AssemblyReference.cache
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\About.g.cs
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\MainWindow.g.cs
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\App.g.cs
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad_MarkupCompile.cache
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad_MarkupCompile.lref
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\About.baml
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\MainWindow.baml
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad.g.resources
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A_02_notepad.Properties.Resources.resources
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad.csproj.GenerateResource.cache
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad.csproj.CoreCompileInputs.cache
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad.exe
+C:\Users\Sunraj Sharma\Desktop\OneDrive - Conestoga College\Sem3\Windows and Desktop programming\A-02\A-02_notepad\obj\Debug\A-02_notepad.pdb
